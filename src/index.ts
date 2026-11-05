@@ -1,2 +1,8 @@
-/** Registration metadata for this skeleton; not a domain or API schema. */
-export const moduleDefinition = {id: 'module-boilerplate-react-native', presentation: 'mobile-react', status: 'skeleton'} as const;
+/** Skeleton registration metadata; this is not a domain/API contract. */
+export const moduleDefinition = {
+  "id": "module-real-estate-portals-and-reporting-react-native",
+  "presentation": "mobile-react",
+  "capabilityKey": "planned:real-estate:portals-and-reporting",
+  "status": "skeleton",
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/real-estate/react-native/portals-and-reporting.md"
+} as const;

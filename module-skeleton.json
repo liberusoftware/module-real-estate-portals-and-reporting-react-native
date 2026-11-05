@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-portals-and-reporting-react-native",
+  "capabilityKey": "planned:real-estate:portals-and-reporting",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-real-estate-portals-and-reporting-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/real-estate/nextjs/portals-and-reporting.md",
+  "presentationPlan": "projects/real-estate/react-native/portals-and-reporting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
